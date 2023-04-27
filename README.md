@@ -6,7 +6,7 @@ Apple Music Clone
 This project requires node and npm installed globally.
 
 Clone the repository to a directory of your choosing
-Use the npm manager [npm](https://nodejs.org/en) to install Dice Pig Game.
+Use the npm manager [npm](https://nodejs.org/en) to install packages.
 
 ```bash
 git clone https://github.com/Vishnu-014/Apple-Music-App.git
